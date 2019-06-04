@@ -1,0 +1,10 @@
+{
+  "name": "minicons",
+  "version": "0.1.0",
+  "description": "Icon repository",
+  "main": "index.js",
+  "repository": "github.com/snirp/minicons",
+  "author": "Roy Prins <prinsroy@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-dirty/postprocess</title>
+    <desc>Created with Sketch.</desc>
+    <g id="postprocess" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M109.502341,425.45812 L278.960461,256 L288,256 L480,256 C480,379.711784 379.711784,480 256,480 C199.987642,480 148.777024,459.441308 109.502341,425.45812 Z M86.851219,402.854408 C52.6834914,363.533331 32,312.182109 32,256 C32,132.288216 132.288216,32 256,32 L256,233.705627 L86.851219,402.854408 Z M477.731557,224 L288,224 L288,34.2684435 C386.102117,48.3008519 463.699148,125.897883 477.731557,224 Z" id="Combined-Shape" fill="#000000"></path>
+        <path d="M288,1.98060016 C403.798955,16.4205254 495.579475,108.201045 510.0194,224 L288,224 L288,1.98060016 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

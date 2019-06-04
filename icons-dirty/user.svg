@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-dirty/user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="user" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M256,272 C326.692448,272 384,198.692448 384,128 C384,57.307552 326.692448,0 256,0 C185.307552,0 128,57.307552 128,128 C128,198.692448 185.307552,272 256,272 Z" id="Oval" fill="#000000"></path>
+        <path d="M208,288 L256,448 L304,288 L385.537887,288 C422.247299,288 454.245947,312.98379 463.149287,348.59715 L496,480 C410.666667,500.023648 330.666667,510.035473 256,510.035473 C181.333333,510.035473 101.333333,500.023648 16,480 L48.8507125,348.59715 C57.7540525,312.98379 89.7527012,288 126.462113,288 L208,288 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>
